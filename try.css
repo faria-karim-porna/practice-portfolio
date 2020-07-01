@@ -1,0 +1,7 @@
+.header-banner{
+    background-image: url("images/background/header-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size:cover;
+    position: relative;
+}

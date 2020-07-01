@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h2{
+    font-size: 40px;
+    padding-top: 10%;
+}
+h1{
+    font-size: 50px;
+}
+.color-name{
+    color: deeppink;
+}
+p{
+    color: grey;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+#header-banner{
+    background-image: url("images/background/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 150px;
+    
+}
+section{
+    
+    height: 550px;
+    
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,palevioletred,deeppink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+#biography-banner{
+    padding-top: 10%;
+    background-image: url("images/background/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.one-third-width img{
+    width: 100%;
+}
+#latest-work-banner{
+    text-align: center;
+    background-image: url("images/background/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+footer{
+    background-image: url("images/background/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#client{
+    text-align: center;
+}
+#email-box{
+    border:2px deeppink solid;
+    background-position: center;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    padding: 10px 20px;
+}
